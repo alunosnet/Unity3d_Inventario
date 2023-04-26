@@ -9,4 +9,7 @@ Um simples sistema de inventário para o Unity 3D com as seguintes funcionalidad
 - carregar inventário;
 - mostrar items do inventário;
 
+É necessário adicionar este package manualmente ao ficheiro manifest.json
+	"com.unity.nuget.newtonsoft-json": "3.0.2"
+
 @2023 Paulo Ferreira
